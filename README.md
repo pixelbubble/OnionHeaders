@@ -29,8 +29,5 @@ https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/,Face
 https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/,The New York Times - Breaking News- US News- World News and Videos,ONLINE,12/02/2023 23:01:50
 ```
 
-## Contributing
-Feel free to clone this project. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
